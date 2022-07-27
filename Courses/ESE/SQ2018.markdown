@@ -1,0 +1,39 @@
+# Software Quality  
+  
+## Developer view  
+  
+* Easy to develop  
+    * Scripts for database setup  
+    * Small changes don't require big (recompilation) effort  
+* Readable  
+    * Good structure  
+    * Good naming conventions  
+* Implementation Documentation (if needed)  
+    * For current team members  
+    * Possibly for customer  
+  
+## User view  
+  
+* Reliable  
+* Deployment not overconstrained  
+* Error handling  
+    * Hard to make mistakes  
+    * System should recover from mistakes  
+* UI consistency  
+* Task efficiency  
+* Fast loading  
+* Software security  
+    * Protect sensitive data  
+    * Protect against hackers  
+    * Safety in hybrid software/hardware systems  
+  
+## Customer view  
+  
+* Transparent development process  
+    * Monitorable  
+    * Controllable  
+* Stay within budget  
+* Easy maintenance  
+    * Low cost for upkeep  
+    * Simple problems can be fixed by users  
+* Requirements fulfilled  

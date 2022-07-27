@@ -1,0 +1,42 @@
+# The Death of General-Purpose Programming  
+  
+FASE 2016 Invited Keynote  
+http://www.etaps.org/index.php/2016/fase  
+  
+## Challenges  
+  
+* Gap between Models and Code  
+    * Architecture is not in the Code  
+    * Language Soup  
+        * Too many DSLs  
+    * Rethinking OOP  
+        * More DSLs is not a solution  
+        * OO : programming is modeling  
+            * Exploit better explicit models in code  
+            * Make it easier to encode knowledge in code  
+                * Annotations  
+        * Linking DK to SW artifacts  
+        * eg Dicto  
+* Developers spend most of their time reading code  
+    * IDEs are glorified text editors  
+    * Developers need specialized analysis tools  
+    * Moldable Tools  
+        * Core functionality  
+            * Querying  
+            * Browsing  
+            * Debugging  
+        * Cheap  
+            * Should be easy to build DS tools  
+        * Make domain concepts explicit  
+            * link to tools  
+        * eg Moldable Debugger  
+* PLs assume the world is closed and frozen  
+    * Static/dynamic divide  
+    * Requirements are done  
+    * Types are fixed and unchanging  
+    * Beyond Smalltalk  
+        * Link Application and code  
+            * eg Morphic and Seaside  
+        * Contexts for Evolution  
+            * eg Theseus  
+        * Ecosystem integration  

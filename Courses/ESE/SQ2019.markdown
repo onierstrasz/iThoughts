@@ -1,0 +1,30 @@
+# Software Quality  
+  
+Progress: 0%  
+  
+## Developer view  
+  
+Progress: 0%  
+  
+* Good Testing coverage  
+* Code documentation  
+    * Precise  
+    * Accurate  
+* Good code design  
+    * Reusability  
+    * Modularity  
+  
+## User view  
+  
+* Doesn't crash  
+* Ease of use  
+    * Know what to do without help  
+    * Efficient interaction  
+* Customer service  
+* Multi-platform support  
+* Regular updates  
+  
+## Customer view  
+  
+* Requirements met on time  
+* Security  

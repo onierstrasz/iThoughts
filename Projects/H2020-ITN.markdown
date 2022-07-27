@@ -1,0 +1,40 @@
+# H2020-ITN  
+  
+Programming Languages  
+  
+## WP1 — Unified Theory  
+  
+## WP2 — DSL Technology  
+  
+* Architecture (AC)  
+* Domain-specific Debugging (DC)  
+* DSL Engineering  
+    * Domain-Specific Visual Programming  
+        * General libraries for graph manipulation  
+        * Standard visualizations  
+        * Customize for domains  
+        * Specify analyses and execution models  
+        * Assign a concrete syntax  
+    * Programs as models  
+        * Focus on models, not the syntax and grammar  
+    * Tools for analysis etc  
+    * Metamodels for DSLs?  
+  
+## WP3 — Transformation Technology  
+  
+## WP4 — Language Globalization  
+  
+* Ecosystem-aware developer tools  
+* Fine grained language independent models  
+    * Control and data flow  
+        * Not ASTs  
+        * Cf FAST  
+    * Moose  
+  
+## WP5 — Language Workbench  
+  
+* Agile Modeling (JK)  
+* Evolution support in PLs  
+    * Context  
+    * Models vs programming  
+* Empirically grounded PL design  

@@ -1,0 +1,27 @@
+# SARIT GA  
+  
+## Issues  
+  
+* name  
+    * XXX for now  
+        * TG "we want to be hard core"  
+    * SI-CHIP  
+        * PAB: Why Informatics and not IT?  
+            * TG: SI is Informatics, not IT  
+    * RM: new buzzword is "digital science"  
+        * perhaps too much old fashioned focus on "computer science"  
+* board  
+    * as representative as possible  
+    * one each from Uni ETH and USS  
+        * Avi: avoid putting too much in the statutes. We want to be inclusive, but does not need to be codified.  
+* votes (conference)  
+    * per member or inst?  
+        * Avi: Willy wanted Chairs of CS Depts to be on Board so decision can be made. Should have equal votes.  
+            * Gusti points out that people, not institutions are members.  
+        * PK: fees paid by members or institutions?  
+            * Departments pay, as with SARIT  
+  
+## Resolution  
+  
+* GA noon March 15 in Bern  
+* name proposals to be sent to info@sarit.ch  

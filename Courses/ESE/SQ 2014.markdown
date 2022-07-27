@@ -1,0 +1,47 @@
+# Software Quality  
+  
+ESE 2014  
+  
+## User POV  
+  
+* Works the way I want it to work  
+* Intuitive use  
+    * Easy to learn  
+    * Usability tests  
+    * Benchmarks  
+* Works the way it was specified!  
+    * Never crashes!  
+* Robust  
+    * Can handle bad user input  
+        * Tolerates experiments  
+    * Stress test w random input  
+* Security  
+    * Privacy laws  
+    * User access rights  
+        * Authentication system  
+* Usability  
+    * Works for the color blind  
+    * Common use cases should be efficient  
+    * Consistent UI  
+    * Shouldn't have to read the manual  
+* Fast "enough"  
+    * Benchmarks  
+* Help  
+  
+## Developer POV  
+  
+* Maintainable  
+    * Easy to update or change  
+        * Low coupling  
+        * Patterns, design principles  
+        * Good team organization  
+        * Make sure requirements well understood and specified  
+    * Code is understandable  
+        * Sensible names  
+    * Documented  
+* Easy to test  
+  
+## Customer POV  
+  
+* Cheap  
+* Easy to deploy  

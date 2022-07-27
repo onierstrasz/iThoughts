@@ -1,0 +1,105 @@
+# Sinz 2020  
+  
+Interactive modeling for agile development (IMAD)  
+  
+## IDEs text-oriented  
+  
+## RE and domain modeling  
+  
+* Models are static artifacts  
+* Models are not linked to code  
+  
+## Interactive modeling  
+  
+* Produce executable models  
+* Linked to development process  
+* Live programming  
+  
+## GT  
+  
+* Evolution of Smalltalk  
+* Live documentation  
+* Moldable tools  
+* Interactive, explorable models  
+* Examples  
+    * Extension of testing  
+  
+## paradigm shift  
+  
+* exploratory modeling  
+    * not just models as specs  
+* example-driven development  
+    * not just test-driven  
+  
+## why different than MDE?  
+  
+## Girba Moldable Development  
+  
+* Developers spend 50% of their time reading code  
+    * But don't discuss *how* they read code  
+    * Goal is decision making  
+        * Reading is just a strategy to make decisions  
+        * Assessment  
+* GT new toolkit for Pharo  
+* Viewing objects  
+    * Classical inspector view always the same  
+    * Moldable views make you engage in different ways  
+    * Not pictures but live views  
+* Playground  
+    * Inspect local folder  
+        * multiple views  
+    * Tabbing views  
+    * Clicking is the same as execution  
+    * IDE is a *language* of operators  
+    * JSON example  
+        * Open a local playground  
+            * STONJSON fromString: self contents  
+            * Get an array  
+                * Dive in  
+        * Added to environment as tree icon (top right)  
+    * Interactively build Mondrian view of folder structure  
+        * m := GtMondrian new.  
+            m nodes with: self allDirectories.  
+            m edges connectFrom: #parent.  
+            m layout tree.  
+            m  
+  
+            * NB: add each line incrementally and execute.  
+        * Not a picture. Can click and navigate.  
+            * The tool can evolve with you.  
+    * XML  
+        * Click on tree icon to parse  
+        * Query with local playground  
+            * self xpath: '//author'  
+        * Switch to meta tab  
+            * Search for xpath  
+            * Find gtXpathFor: method  
+            * Add < gtView > annotation to add xpath tab!  
+* Case studies  
+    * polypoly.eu  
+        * multiple perspectives on twitter feed  
+* Documenter  
+    * markdown editor  
+    * embedded code  
+        * buttons and inspectors appear  
+        * 100 EUR asPrice discountedBy: 10 EUR  
+            * discountedBy: 10 percent  
+        * nested overview  
+        * molded view for this object  
+            * designed by domain experts  
+    * No edit mode  
+        * specify which view you want of code examples  
+        * left with just example view  
+    * Example of live document with examples  
+        * Figures, running code  
+* Spotter  
+    * search for stuff  
+    * search within a context of a specific class  
+        * do within Collection  
+    * search anything anywhere  
+        * a search itself is a scope  
+* Query how many loc per plugin  
+    * gtView gtPragmas linesOfCode / #gtView gtPragmas size  
+* John Culkin  
+    * We shape our tools, then they shape us  
+    * Tools are essential in SE, and they should be moldable  

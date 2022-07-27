@@ -1,0 +1,62 @@
+# Software Quality  
+  
+ESE 2017  
+  
+## Developer perspective  
+  
+* Maintainability  
+    * Logical structure  
+        * Code reviews  
+    * Class naming  
+        * Standards  
+            * Eg CamelCase  
+    * Documentation  
+        * Implementation documentation  
+            * Short and precise  
+    * Good architecture  
+        * Modular  
+            * Easy to add new parts  
+                * (Need experienced architect)  
+    * Testing  
+        * High coverage  
+        * Good naming  
+            * Explains what is tested  
+* Efficient development process  
+    * Choose appropriate technology  
+    * Good developer communication  
+        * Standardize communication tools  
+        * Issue tracker  
+  
+## User perspective  
+  
+* Simple  
+    * Just implement what the user wants  
+    * Easy to navigate  
+        * Usability study  
+            * Measure time for tasks  
+* Good user manual  
+    * Get user feedback  
+* Understandable error messages  
+    * User feedback  
+    * Internal testing by developers  
+* Esthetically pleasing UI  
+    * Professional designers  
+    * Prototyping  
+    * A/B testing  
+  
+## Customer perspective  
+  
+* Fits requirements  
+* Transparent process  
+    * Stay up-to-date with development status  
+* Efficient  
+    * Product  
+        * Fast loading  
+        * Tasks faster than with manual system  
+    * Process  
+        * Efficient communication  
+        * Quick turnaround  
+* Good support for deployed product  
+    * Contract  
+    * Platform for reporting issues  
+    * Good support contact  

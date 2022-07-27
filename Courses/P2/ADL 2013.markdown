@@ -1,0 +1,62 @@
+# Advanced Design Lab 2013  
+  
+Preparation  
+  
+## Preamble  
+  
+* Ask students:  
+    * What is a good program?  
+    * What is a good design?  
+        * Programming is modeling  
+            * Want to minimize semantic gap between code and real world  
+        * Should be easy to evolve  
+  
+## Telco modeling exercise  
+  
+* Want a maintainable design  
+* Requirements  
+    * Invoicing scenario  
+        * How do we generate an invoice?  
+        * Need to bill customers  
+            * What information to track?  
+            * eg  
+                * caller  
+                * receiver  
+                * duration  
+                * time and date?  
+                * price?  
+                * type of call?  
+                * …  
+    * What objects to model?  
+        * Calls  
+            * Local  
+            * Regional  
+            * International  
+        * Customers  
+            * ...  
+        * Phone number  
+            * ...  
+    * What new requirements to add incrementally?  
+        * Discounts  
+            * special days  
+            * privileged customer  
+        * mobile numbers  
+        * keep your number when you change address  
+            * even different region  
+* Lessons  
+    * Don't model hierarchy of calls  
+        * classify dynamically  
+        * Don't make call type an object  
+            * instead, a classified call  
+            * more flexible  
+    * A call should not know its price  
+        * depends on many things  
+    * naming is important  
+        * class names  
+        * messages  
+            * encode responsibilities  
+    * Avoid "Manager" classes  
+        * you end up with a "bag of cats"  
+    * Figure out what needs to change dynamically  
+        * Price calculator  
+    * Ask what objects should be immutable  

@@ -1,0 +1,70 @@
+# Software Quality  
+  
+## User perspecitive  
+  
+* Design  
+    * should be a pleasure to use!  
+    * related to Saleability!  
+* Performance  
+    * don't want to wait  
+        * time to load  
+        * reaction time  
+    * important things should be faster  
+    * system requirements should be modest  
+* Security  
+    * Data safety  
+    * Authorization  
+        * protect against intruders  
+* Support  
+* Reliability  
+    * must be a fallback if things don't work  
+    * Recoverability  
+    * system does what it's supposed, over time  
+        * eg should not crash  
+        * must be available!  
+    * should always do stuff the same way  
+* Usability  
+    * Recovering from mistakes  
+    * Feedback  
+        * eg know when a task will take a long time  
+    * Speed of interaction over time  
+        * Shortcuts  
+    * Simplicity  
+    * Store and restore state  
+    * Learnability  
+        * Consistency  
+            * behavior consistent with related apps  
+            * consistent look and feel  
+  
+## Developer perspective  
+  
+* Maintainability  
+    * Monitor run-time errors  
+    * Documentation  
+        * examples  
+        * explanation of internals  
+            * how does it work  
+        * short  
+        * precise  
+        * declare all contracts  
+    * Tests  
+        * coverage  
+            * cover often used behaviour  
+            * cover difficult or problematic scenarios  
+        * realistic scenarios  
+            * readable  
+    * Modularity  
+        * Low coupling  
+        * High cohesion  
+    * Extendibility  
+        * plug compatible interfaces  
+* Reusability  
+    * small methods  
+    * good use of inheritance  
+        * minimal overriding  
+    * configuration  
+        * scripting apps at a high level  
+        * use of DSLs  
+* Installability  
+    * easy to deploy  
+    * easy to update  

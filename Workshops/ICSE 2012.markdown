@@ -1,0 +1,57 @@
+# ICSE 2012  
+  
+## Keynotes  
+  
+* Saskia Sassen Keynote  
+    * Phillips curve?  
+    * High finance is not about money  
+        * Finance is a logic that is used to manage resorces  
+        * It's a distributed computational machine  
+        * Needs access to local specificities  
+            * Can't be globally centralized  
+    * Communication is overrated  
+        * kowledge is important  
+        * some action has to take place  
+  
+## Cool papers  
+  
+* Tobias Roehm and Walid Maalej use hidden Markov models to automatically detect developer activities from low-level actions. #ise2012 NIER  
+* Evaluating the Specificity of Text Retrieval Queries to Support Software Engineering Tasks  
+      
+    Sonia Haiduc1, Gabriele Bavota2, Rocco Oliveto3, Andrian Marcus1, Andrea De Lucia2  
+  
+    * 88% Developer queries are "bad"  
+        * Paper by BA Myers et al  
+* James Corrigan wants to integrate mindful meditation, yoga nidra and journeying into the software process to improve attention. #icse2012 NIER  
+* How Do Professional Developers Comprehend Software? (ACM SIGSOFT Distinguished Paper) Tobias Roehm, Rebecca Tiarks, Rainer Koschke, and Walid Maalej (TU Munich, Germany; University of Bremen, Germany)  
+    * Which Strategies, Sources and Tools do developers use to understand programs?  
+        * Used think aloud field observations and semi structured interviews  
+* Asking and Answering Questions about Unfamiliar APIs: An Exploratory Study  
+      
+    Ekwa Duala-Ekoko and Martin P. Robillard  
+  
+    * Question Abstraction Process  
+        Sillito et al TSE 2008  
+  
+    * Nearly 400 recorded videos of developers trying to understand APIs  
+        * simple problems of instantiating, composing and saving  
+        * difficulty of abstracting from video to usable model  
+            * abstracted as abstract action traces  
+        * identified patterns  
+            * some indidcate lack of progress  
+    * Incoming dependencies, vocabulary mismatches and wring assumptions were the most common blockers  
+    * Stylos and Myers hypothesis ICSE 2008  
+        Incoming dependencies – problems getting to answer from initial type  
+  
+        * Google doesn't always have the answer  
+  
+## Demos  
+  
+* TraceLab: An Experimental Workbench for Equipping Researchers to Innovate, Synthesize, and Comparatively Evaluate Traceability Solutions  
+    * graphical tool for composing solutions  
+    * looks a lot like prograph  
+  
+## MSR  
+  
+* Alexander Breckel  
+    * …  
