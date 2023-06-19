@@ -1,18 +1,48 @@
 # Getting started with GT  
   
+## Grand Tour  
+  
+* Download and get started  
+    * What do you see?  
+    * Start with the book  
+* What do you see?  
+    * There is a workspace with tools  
+    * There is an image with live objects  
+* Tools  
+    * GT Book  
+        * Learn about Smalltalk and Pharo  
+    * Lepiter  
+        * You have your own Lepiter db  
+        * Create Notes and Playgrounds  
+    * Inspector  
+        * You are inspecting live objects  
+    * Spotter  
+        * Finding anything anywhere  
+        * Finding things in a context  
+            * Eg GT Book  
+    * File manager  
+        * Fancy file browser  
+        * JSON etc?  
+    * Coder  
+* What is persisted  
+    * Objects are in the image  
+    * Code is saved to repos  
+    * Lepiter notebooks are persisted to JSON files  
+* Moldability  
+  
+## Take home message?  
+  
+* What is GT?  
+    * Blind men with elephant  
+    * It's an IDE  
+    * It's a data explorer  
+    * It's a knowledge base  
+    * It's a visualization tool?  
+    * It's a model builder  
+    * It's a language workbench  
+  
 ## 2 main points  
   
-* What are the tools?  
-    * Download and get started  
-        * What do you see?  
-        * Start with the book  
-    * Tools  
-        * File manager  
-            * Fancy file browser  
-            * JSON etc?  
-        * Inspector  
-        * Spotter  
-        * Lepiter (Book + your own notes)  
 * What are the use cases?  
     * What can you do?  
         * (What do you want to do?)  
@@ -38,15 +68,6 @@
         * How do you update GT?  
             * Do you just download it again and discard the existing install? Am I missing something obvious?  
   
-## Take home message?  
-  
-* What is GT?  
-    * Blind men with elephant  
-    * It's an IDE  
-    * It's a data explorer  
-    * It's a knowledge base  
-    * It's a visualization tool?  
-  
 ## Discord feedback  
   
 * KH  
@@ -64,3 +85,9 @@
             * Custom Searches  
             * Custom editor stylers  
             * Etc. Basically the different ways to modify the system, which usually tie back to some type of annotation that begins with <gt...  
+  
+## Too advanced ...  
+  
+* Learn about visualization ?  
+* Molding the IDE  
+* Principles & Patterns?  
