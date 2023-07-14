@@ -10,16 +10,50 @@ cf Kent Beck's book
       
     Maybe a set of patterns?  
   
+    * Tools  
+        * MethodFinder  
+        * Spotter  
+        * Metaprogramming  
+        * Coder  
+            * References  
+            * Examples map  
+            * Class/method spotter  
+        * Filters  
+        * Senders, Implementors ...  
+        * Driller  
+        * Examples  
+    * _Check the video script_  
+        * Also create How to pages  
+    * What are you looking for?  
+        * Where is this implemented?  
+        * How do I use this method/class?  
+        * Is there a method that does this?  
+* Prototype new behavior in an Inspector playground  
+    * Start from a playground  
+        * In a Lepiter code snippet  
+        * In an inspector playground  
+        * Any other playground  
+            * They are everywhere!  
+    * Write a live code snippet  
+        * test it  
+        * extract it as a method  
 * From Test First to Example First  
+    * Explore and play with the example  
+        * Then extract it as a method  
+        * Turn it into an example  
+        * Add assertions  
+        * Use it as a setup for further examples  
 * Design screenshots to tell a story  
+    * Show the exploration path  
+        * Code snippet -> view  
 * Start from a Lepiter page  
     * then start from a code snippet  
     * then work from inspector views  
-* Prototype new behavior in an Inspector playground  
 * Moldable views  
-    * Inspector  
-    * Debugger  
-    * Spotter  
+    * Inspector views  
+    * Actions  
+    * Searches  
+    * Advices  
 * Replace navigation by view  
     * If you find yourself navigating, build a view  
     * example: slideshows  
