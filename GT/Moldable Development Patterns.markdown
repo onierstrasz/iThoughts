@@ -23,15 +23,17 @@ Talk to be given at Smalltalks 2023, Quilmes AR.
 ## The patterns  
   
 * Moldable Object  
-* Viewable Data Wrapper  
-* Contextual Playground  
 * Viewable Entity  
+* Contextual Playground  
+* Viewable Data Wrapper  
 * Others  
+    * Simple View  
     * Project Diary  
     * Example Object  
     * Custom Action  
-    * Simple View  
     * Collection Wrapper  
   
 ## Conclusion  
   
+* Recap key messages  
+    * …  
