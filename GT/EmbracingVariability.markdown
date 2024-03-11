@@ -25,6 +25,8 @@ Embracing Software Variability to build Explainable Systems
     * Examples of questions to answer  
         * ...  
 * Want examples for searches and actions  
+* Example of MD  
+    * GitHub REST API  
   
 ## Variability in Moldable Tools  
   
@@ -32,22 +34,27 @@ Embracing Software Variability to build Explainable Systems
     * Views, Actions, Searches  
 * Coder  
     * Views  
+* Debugger  
+    * Exceptions  
 * Lepiter  
     * Annotations  
     * Snippets  
         * Refactoring  
         * Python  
-* Debugger  
-    * Exceptions  
   
 ## Birds-eye view  
   
-* Plugins, but dynamic  
+* Feature plugins, but dynamic  
     * Objects bring their custom extensions  
-* Fine-grained  
-    * Most tools are tiny  
 * Compositional  
     * Navigate flow of objects  
+* Fine-grained  
+    * Most tools are tiny  
+    * Show statistics  
+* Pervasive  
+    * Work for any problem  
+    * Capture any kind of variability in the problem domain  
+    * Also show the TreeMap  
   
 ## Conclusion?  
   
